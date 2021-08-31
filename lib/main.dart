@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Meu Primeiro App"),
+        title: Text("Meu Primeiro App Flutter"),
       ),
       body: Center(
           child: Text(
